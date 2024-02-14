@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Samarth Srivastava f7b49030</title>
+<title>MAKKI 3aa8139d</title>
 </head>
 <body>
 <h1>Welcome to my guessing game</h1>
